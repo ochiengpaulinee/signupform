@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: aqua;
+  }
+  .container{
+    justify-content: flex-start;
+    display: flex;
+    justify-content: space-between;
+}
+    img{
+      float: left;
+      width: 30%;
+      padding-left: 150px;
+    }
+    .form{
+      padding-right: 400px;
+    }

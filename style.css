@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: aqua;
+  }
+  .container{
+    justify-content:space-evenly;
+    display: flex;}
+    img{
+      float: left;
+      width: 30%;
+    }
+    .form{
+      padding-left: 40px;
+    }
